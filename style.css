@@ -20,6 +20,11 @@ body {
 font-family: 'Nunito', sans-serif;
 font-family: 'Quicksand', sans-serif; */
 
+.title-font {
+  font-family: 'Crimson Text', serif;
+  font-weight: bold;
+}
+
 .senho-title {
   font-family: 'Crimson Text', serif;
   font-weight: bold;
